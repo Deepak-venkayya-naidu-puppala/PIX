@@ -1,0 +1,21 @@
+.classy-nav-container{
+    background-color: #00CCCD;
+}
+.classynav{
+    width:100%;
+}
+#list{
+    color:white;
+}
+.fa-heart{
+    color:white;
+    align-content:center; 
+}
+
+.navbarToggler{
+    color:black;
+}
+.class-menu{
+    font-size:16px;
+}
+
